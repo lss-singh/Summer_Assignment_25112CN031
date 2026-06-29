@@ -6,7 +6,7 @@ public class Q115 {
         String str = sc.nextLine();
         int choice = 0;
         while (choice != 6) {
-            System.out.println("\n----- String Operations Menu -----");
+            System.out.println("\nString Operations Menu");
             System.out.println("1. Display String");
             System.out.println("2. Find Length");
             System.out.println("3. Convert to Uppercase");
